@@ -7,11 +7,11 @@ ID	Nazwa							Opis
 04	Rodzaj					Pozwala na podzielenie elektroniki na pod grupy
 05	PodRodzaj				Każdy rodzaj możemy podzielić na kolejne grupy
 06	PodpodRodzaj			Podział pod rodzaju
-07	Dane					
-08	Magazyny				Pozwala dostarczyć inforamcji na tematy magazynów
+07	Dane					    Informacje techniczne elektroniki
+08	ElementyWMagazynach				Pozwala dostarczyć inforamcji na tematy tego ile dany magazyn ma danych elemetów
 09	Magazyn					Konkretny magazyn, do którego mamy dostęp do adresu i telefonu
-10	KoszSklep
-11	Kosz
+10	ElementyWKoszu   Odpowiada za ile i jakie elementy chce klient zamówic
+11	Kosz            Możliwośc zapisywania koszów
 
 Założenia niefunkcjonalne
 
