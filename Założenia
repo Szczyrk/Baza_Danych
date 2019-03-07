@@ -1,0 +1,21 @@
+Zalożenia funkcjonalne
+
+ID	Nazwa							Opis
+01	Elektronika				Zbiór wszystkich elemetów elektronicznych z kilku stopniowym podziałem na rodzaj, ceną, nazwą, rokiem produkcji i producentem 
+02	Klient					Użytkownik ma możliwość zalogowanie się do konta za pomocą e-maila
+03	Producent				Pozwala na dostarczenie informacji adres, strona, telefon do danego producenta
+04	Rodzaj					Pozwala na podzielenie elektroniki na pod grupy
+05	PodRodzaj				Każdy rodzaj możemy podzielić na kolejne grupy
+06	PodpodRodzaj			Podział pod rodzaju
+07	Dane					
+08	Magazyny				Pozwala dostarczyć inforamcji na tematy magazynów
+09	Magazyn					Konkretny magazyn, do którego mamy dostęp do adresu i telefonu
+10	KoszSklep
+11	Kosz
+
+Założenia niefunkcjonalne
+
+ID	Nazwa						Opis
+01	Niezawodność			Jak najmniejsza liczba błędów systemowych
+02	Bezpieczeństwo			Zabezpiecznie danych użytkownika oraz dokonanych zakupów 
+03	Dostępność				Możliwość przeglądania ofert przez cały czas (24/7)
