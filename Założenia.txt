@@ -1,4 +1,4 @@
-Zalożenia funkcjonalne
+﻿Zalożenia funkcjonalne
 
 ID	Nazwa							Opis
 01	Elektronika				Zbiór wszystkich elemetów elektronicznych z kilku stopniowym podziałem na rodzaj, ceną, nazwą, rokiem produkcji i producentem 
